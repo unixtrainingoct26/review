@@ -1,1 +1,3 @@
-# review
+# maven-project
+
+Simple Maven Project
